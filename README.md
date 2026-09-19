@@ -40,6 +40,5 @@ People I've hired into roles that went on to matter — a CTO who later moved to
 
 ---
 
-📫 Let's connect on LinkedIn — or reach out about People-function-from-scratch consulting.
+📫 Let's connect on https://www.linkedin.com/in/nasreenkhan3007/ or reach out about People-function-from-scratch consulting.
 
-<!-- Swap in your real LinkedIn URL above once you paste this into your GitHub profile repo. -->
