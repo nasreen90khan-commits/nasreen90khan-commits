@@ -1,16 +1,15 @@
 # Hi, I'm Nasreen Khan
 
-HR Operations leader who builds People functions from zero to one — and increasingly, builds the tools that run them.
+HR Operations leader who builds People functions from zero to one and increasingly, builds the tools that run them.
 
-10+ years founding and scaling HR at early-stage startups across India, APAC, and MENA. I've been the first HR hire at four companies, which means I've set up everything from statutory compliance to HRIS to POSH frameworks before there was anyone else to hand it to. Lately that's extended into AI-assisted HR tooling — screening, scorecards, and internal chat tools built to cut the busywork out of recruitment and HR ops.
+10+ years founding and scaling HR at early-stage startups across India, APAC, and MENA. I've been the first HR hire at four companies, which means I've set up everything from statutory compliance to HRIS to POSH frameworks before there was anyone else to hand it to. Lately that's extended into AI-assisted HR tooling- screening, scorecards, and internal chat tools built to cut the busywork out of recruitment and HR ops.
 
-- 🎓 PhD, Multicultural Team Management — ESC Troyes, France
-- 📜 SHRM-SCP certified · Executive Development Programme, XLRI
+- 🎓 PhD, Multicultural Team Management-ESC Troyes, France
+- 📜 SHRM-SCP certified, Executive Development Programme, XLRI
 - 🏢 Founding HR hire: Xoxoday (HRBP, APAC, 500+ employees), EWar Games, EloElo Group, BeBetta
 - 🌍 Multi-country statutory compliance: India, UAE/Dubai, Philippines, broader APAC
 - 🤝 30,000+ LinkedIn connections, used as an active sourcing network
 - 🔍 Independent recruiting & talent advisory on the side
-
 ---
 
 ## HR Operations × AI Recruitment
